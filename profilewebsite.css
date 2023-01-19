@@ -1,0 +1,33 @@
+
+         
+body{
+  background-color:gray;
+  font-family:arial , sans-serif;
+  margin:10px;
+  
+}
+div{
+  background-color: lightgray;
+  padding: 5px;
+  border-radius: 10px;
+   margin:5px;
+}
+.headding{
+  font-size:15px;
+  margin: 3px;
+}
+img{
+  border-radius: 50%;
+  box-shadow: 0 0 10px black;
+}
+  table{
+      width:100%;
+      text-align:center
+      
+  }
+  th{
+      background-color:gray ;
+      color:white;
+  }
+    
+    
